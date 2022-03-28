@@ -1,0 +1,8 @@
+C:\Users\cris_\Desktop\c#\Estruturas de repetição\Estruturas de repetição\bin\Debug\Estruturas de repetição.exe.config
+C:\Users\cris_\Desktop\c#\Estruturas de repetição\Estruturas de repetição\bin\Debug\Estruturas de repetição.exe
+C:\Users\cris_\Desktop\c#\Estruturas de repetição\Estruturas de repetição\bin\Debug\Estruturas de repetição.pdb
+C:\Users\cris_\Desktop\c#\Estruturas de repetição\Estruturas de repetição\obj\Debug\Estruturas de repetição.csproj.AssemblyReference.cache
+C:\Users\cris_\Desktop\c#\Estruturas de repetição\Estruturas de repetição\obj\Debug\Estruturas de repetição.csproj.SuggestedBindingRedirects.cache
+C:\Users\cris_\Desktop\c#\Estruturas de repetição\Estruturas de repetição\obj\Debug\Estruturas de repetição.csproj.CoreCompileInputs.cache
+C:\Users\cris_\Desktop\c#\Estruturas de repetição\Estruturas de repetição\obj\Debug\Estruturas de repetição.exe
+C:\Users\cris_\Desktop\c#\Estruturas de repetição\Estruturas de repetição\obj\Debug\Estruturas de repetição.pdb

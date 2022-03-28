@@ -1,0 +1,8 @@
+C:\Users\cris_\Desktop\c#\aulafunção\aulafunção\bin\Debug\aulafunção.exe.config
+C:\Users\cris_\Desktop\c#\aulafunção\aulafunção\bin\Debug\aulafunção.exe
+C:\Users\cris_\Desktop\c#\aulafunção\aulafunção\bin\Debug\aulafunção.pdb
+C:\Users\cris_\Desktop\c#\aulafunção\aulafunção\obj\Debug\aulafunção.csproj.AssemblyReference.cache
+C:\Users\cris_\Desktop\c#\aulafunção\aulafunção\obj\Debug\aulafunção.csproj.SuggestedBindingRedirects.cache
+C:\Users\cris_\Desktop\c#\aulafunção\aulafunção\obj\Debug\aulafunção.csproj.CoreCompileInputs.cache
+C:\Users\cris_\Desktop\c#\aulafunção\aulafunção\obj\Debug\aulafunção.exe
+C:\Users\cris_\Desktop\c#\aulafunção\aulafunção\obj\Debug\aulafunção.pdb

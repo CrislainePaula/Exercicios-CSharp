@@ -1,0 +1,8 @@
+C:\Users\cris_\Desktop\c#\aulacondição\aulacondição\bin\Debug\aulacondição.exe.config
+C:\Users\cris_\Desktop\c#\aulacondição\aulacondição\bin\Debug\aulacondição.exe
+C:\Users\cris_\Desktop\c#\aulacondição\aulacondição\bin\Debug\aulacondição.pdb
+C:\Users\cris_\Desktop\c#\aulacondição\aulacondição\obj\Debug\aulacondição.csproj.AssemblyReference.cache
+C:\Users\cris_\Desktop\c#\aulacondição\aulacondição\obj\Debug\aulacondição.csproj.SuggestedBindingRedirects.cache
+C:\Users\cris_\Desktop\c#\aulacondição\aulacondição\obj\Debug\aulacondição.csproj.CoreCompileInputs.cache
+C:\Users\cris_\Desktop\c#\aulacondição\aulacondição\obj\Debug\aulacondição.exe
+C:\Users\cris_\Desktop\c#\aulacondição\aulacondição\obj\Debug\aulacondição.pdb

@@ -1,0 +1,8 @@
+C:\Users\cris_\Desktop\c#\aulaconstantes\bin\Debug\aulaconstantes.exe.config
+C:\Users\cris_\Desktop\c#\aulaconstantes\bin\Debug\aulaconstantes.exe
+C:\Users\cris_\Desktop\c#\aulaconstantes\bin\Debug\aulaconstantes.pdb
+C:\Users\cris_\Desktop\c#\aulaconstantes\obj\Debug\aulaconstantes.csproj.AssemblyReference.cache
+C:\Users\cris_\Desktop\c#\aulaconstantes\obj\Debug\aulaconstantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\cris_\Desktop\c#\aulaconstantes\obj\Debug\aulaconstantes.csproj.CoreCompileInputs.cache
+C:\Users\cris_\Desktop\c#\aulaconstantes\obj\Debug\aulaconstantes.exe
+C:\Users\cris_\Desktop\c#\aulaconstantes\obj\Debug\aulaconstantes.pdb

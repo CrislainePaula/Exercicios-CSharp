@@ -1,0 +1,8 @@
+C:\Users\cris_\Desktop\c#\aulafunção\Funçãoparte2\bin\Debug\Funçãoparte2.exe.config
+C:\Users\cris_\Desktop\c#\aulafunção\Funçãoparte2\bin\Debug\Funçãoparte2.exe
+C:\Users\cris_\Desktop\c#\aulafunção\Funçãoparte2\bin\Debug\Funçãoparte2.pdb
+C:\Users\cris_\Desktop\c#\aulafunção\Funçãoparte2\obj\Debug\Funçãoparte2.csproj.AssemblyReference.cache
+C:\Users\cris_\Desktop\c#\aulafunção\Funçãoparte2\obj\Debug\Funçãoparte2.csproj.SuggestedBindingRedirects.cache
+C:\Users\cris_\Desktop\c#\aulafunção\Funçãoparte2\obj\Debug\Funçãoparte2.csproj.CoreCompileInputs.cache
+C:\Users\cris_\Desktop\c#\aulafunção\Funçãoparte2\obj\Debug\Funçãoparte2.exe
+C:\Users\cris_\Desktop\c#\aulafunção\Funçãoparte2\obj\Debug\Funçãoparte2.pdb
